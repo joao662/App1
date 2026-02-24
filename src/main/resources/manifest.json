@@ -1,0 +1,14 @@
+{
+  "id": "rykun-eventos",
+  "name": "RykunEventos",
+  "version": "1.0.0",
+  "main": "com.rykun.RykunEventos",
+  "description": "Sistema de eventos de chat e arena com configuração in-game.",
+  "commands": [
+    {
+      "name": "re",
+      "description": "Gerencia os eventos",
+      "usage": "/re <reload|save|config>"
+    }
+  ]
+}
